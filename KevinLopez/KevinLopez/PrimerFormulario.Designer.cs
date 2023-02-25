@@ -37,6 +37,7 @@
             this.ClientSize = new System.Drawing.Size(743, 330);
             this.Name = "PrimerFormulario";
             this.Text = "PrimerFormulario";
+            this.Load += new System.EventHandler(this.PrimerFormulario_Load);
             this.ResumeLayout(false);
 
         }

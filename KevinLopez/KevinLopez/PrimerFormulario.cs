@@ -16,5 +16,13 @@ namespace KevinLopez
         {
             InitializeComponent();
         }
+
+        public void PrimerFormulario_Load(object sender, EventArgs e)
+        {
+            //Menu menuFormulario = new Menu();
+            //menuFormulario.Show();
+
+            //PrimerFormulario_Load = PrimerFormulario;
+        }
     }
 }
